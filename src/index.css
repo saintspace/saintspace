@@ -1,0 +1,29 @@
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.mantine-Drawer-header {
+  background-color: #264B66;
+}
+
+.mantine-Drawer-content {
+  background-color: #264B66;
+}
+
+.mantine-Drawer-close {
+  margin-top: 15px;
+  margin-right: 15px;
+  width: 60px;
+  height: 60px;
+}
+
+.mantine-Drawer-close svg {
+  width: 35px;
+  height: 35px;
+  color: white;
+}
+
+.mantine-Drawer-close:hover {
+  background-color: #264B66;
+}
